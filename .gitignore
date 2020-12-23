@@ -5,3 +5,5 @@
 
 del/
 node_modules/
+
+.env
