@@ -36,6 +36,8 @@ cors_proxy
     originWhitelist: [
       "https://boardgamegeek.com",
       "https://www.boardgamegeek.com",
+      "https://boardgameatlas.com",
+      "https://www.boardgameatlas.com",
     ],
     requireHeader: [],
     removeHeaders: [
